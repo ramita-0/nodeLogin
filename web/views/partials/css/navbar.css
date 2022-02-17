@@ -1,0 +1,23 @@
+#indexDiv{
+    float:left
+}
+
+#index {
+    padding: 20px;
+}
+
+nav > div > div{
+    display: inline-flexbox;
+}
+
+#navbar > div > div > ul {
+    text-align: right;
+    margin-right: 80px;
+
+}
+
+#navbar > div > div > ul > li{
+    display: inline;
+    padding: 5px;
+
+} 
